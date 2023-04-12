@@ -3,3 +3,7 @@
 .RData
 .Ruserdata
 SNR.Rproj
+*.pdf
+*.tsv
+*.xlsx
+*.csv
